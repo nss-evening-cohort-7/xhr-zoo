@@ -1,0 +1,109 @@
+{
+  "animals": [
+    {
+      "name": "Blue Poison Arrow Frog",
+      "type":"Amphibian",
+      "number": 3,
+      "isCarnivore": true,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/12_frogs.jpg"
+    },
+    {
+      "name": "Panamanian Golden Frog",
+      "type":"Amphibian",
+      "number": 3,
+      "isCarnivore": true,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/12_golden-frog-katie-gregory.jpg"
+    },
+    {
+      "name": "Hellbender",
+      "type":"Amphibian",
+      "number": 3,
+      "isCarnivore": true,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/12_hellbender-sm.jpg"
+    },
+    {
+      "name": "Caribbean Flamingo",
+      "type":"Bird",
+      "number": 1000,
+      "isCarnivore": false,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/12_flamingo9.jpg"
+    },
+    {
+      "name": "Lorikeet",
+      "type":"Bird",
+      "number": 3,
+      "isCarnivore": false,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/12_lorikeet8.jpg"
+    },
+    {
+      "name": "Snowy Owl",
+      "type":"Bird",
+      "number": 3,
+      "isCarnivore": true,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/12_snowyowl1.jpg"
+    },
+    {
+      "name": "Piranha",
+      "type":"Fish",
+      "number": 500,
+      "isCarnivore": true,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/12_piranha2.jpg"
+    },
+    {
+      "name": "White-Blotched Rivre Stingray",
+      "type":"Fish",
+      "number": 3,
+      "isCarnivore": true,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/12_white-blotched-stingray.jpg"
+    },
+    {
+      "name": "Blue Tang Surgeon Fish",
+      "type":"Fish",
+      "number": 3,
+      "isCarnivore": false,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/12_blue-tang-surgeonfish.jpg"
+    },
+    {
+      "name": "Clouded Leopard",
+      "type":"Mammal",
+      "number": 3,
+      "isCarnivore": true,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/12_cloudedleopard7.jpg"
+    },
+    {
+      "name": "Cougar",
+      "type":"Mammal",
+      "number": 3,
+      "isCarnivore": true,
+      "imageUrl": "https://avatars0.githubusercontent.com/u/16550897?s=460&v=4"
+    },
+    {
+      "name": "Aldabra Tortoise",
+      "type":"Reptile",
+      "number": 1,
+      "isCarnivore": false,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/12_koraline_-_aldabra_-_katie_gregory.jpg"
+    },
+    {
+      "name": "Galapagos Tortoise",
+      "type":"Reptile",
+      "number": 3,
+      "isCarnivore": false,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/tortoise6.jpg"
+    },
+    {
+      "name": "Mata Mata",
+      "type":"Reptile",
+      "number": 3,
+      "isCarnivore": true,
+      "imageUrl": "https://www.speakcdn.com/assets/2147/mata-mata-katie-gregory.jpg"
+    },
+    {
+      "name": "Giraffe",
+      "type":"Mammal",
+      "number": 27,
+      "isCarnivore": false,
+      "imageUrl": "https://avatars2.githubusercontent.com/u/8356215?s=400&v=4"
+    }
+  ]
+}
